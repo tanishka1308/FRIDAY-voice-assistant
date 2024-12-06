@@ -82,6 +82,6 @@ With continuous improvement, FRIDAY can perform tasks as effectively as humans, 
 ## Contact
 
 For any queries or feedback, reach out to:
-- **Tanishka Sharma:** [Email](tanishka.sharma1317@gmail.com)
+- **Tanishka Sharma:** Email:(tanishka.sharma1317@gmail.com)
 - **Project Repository:** [GitHub Repository Link](https://github.com/tanishka1308/Friday-Voice-Assistant)
 
